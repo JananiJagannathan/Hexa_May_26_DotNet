@@ -1,0 +1,7 @@
+C:\Users\priya\source\repos\SmartCourierApp\SmartCourierApp\bin\Debug\SmartCourierApp.exe.config
+C:\Users\priya\source\repos\SmartCourierApp\SmartCourierApp\bin\Debug\SmartCourierApp.exe
+C:\Users\priya\source\repos\SmartCourierApp\SmartCourierApp\bin\Debug\SmartCourierApp.pdb
+C:\Users\priya\source\repos\SmartCourierApp\SmartCourierApp\obj\Debug\SmartCourierApp.csproj.AssemblyReference.cache
+C:\Users\priya\source\repos\SmartCourierApp\SmartCourierApp\obj\Debug\SmartCourierApp.csproj.CoreCompileInputs.cache
+C:\Users\priya\source\repos\SmartCourierApp\SmartCourierApp\obj\Debug\SmartCourierApp.exe
+C:\Users\priya\source\repos\SmartCourierApp\SmartCourierApp\obj\Debug\SmartCourierApp.pdb
